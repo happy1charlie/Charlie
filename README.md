@@ -1,6 +1,6 @@
 # Hello, world
 
-__I'm Charlie, a begginer of computer science. __
+**I'm Charlie, a begginer of computer science. **
 
 Currently learning JavaScript and trying to build my first webpage. 
 
