@@ -4,3 +4,7 @@
 
 Currently learning JavaScript and trying to build my first webpage. 
 
+```
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+```
+
